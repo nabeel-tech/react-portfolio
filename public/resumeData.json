@@ -1,13 +1,13 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
+    "name": "Nabeel Hussain",
+    "occupation": "ReactJS Developer",
+    "description": "React JS Developer",
     "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
-    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "bio": "My name is Nabeel, I'm a ReactJS Developer.",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "nabeel_hussain1@hotmail.co.uk",
+    "phone": "+44 7490666959",
     "address": {
       "street": "123 Fake Street",
       "city": "London",
